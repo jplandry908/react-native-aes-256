@@ -1,6 +1,6 @@
 {
   "name": "react-native-aes-256",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This React Native library provides a secure and convenient way to encrypt and decrypt data using the industry-standard AES-256 algorithm. It seamlessly integrates with your React Native application, allowing you to protect sensitive information on both Android and iOS platforms.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
